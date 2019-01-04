@@ -1,0 +1,2 @@
+#!/bin/sh
+docker ps -a --filter label=ai.clipper.container.label
